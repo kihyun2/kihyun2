@@ -1,9 +1,6 @@
 <div align="center">
 
 :stuck_out_tongue_winking_eye:**kihyun**:laughing:
-
-
- <br>
  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jsh99875)](https://solved.ac/jsh99875)
