@@ -7,14 +7,14 @@
 
 </br>
   
-  🔥
+ 🔥
  <div align="right">
  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jsh99875)](https://solved.ac/jsh99875)
 
 </div>
- 🔥
+🔥
  
 </div>
   
