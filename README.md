@@ -7,8 +7,8 @@
  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jsh99875)](https://solved.ac/jsh99875)
 
 <br>
- <img align="left" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihyuny&theme=gruvbox_light&show_icons=true)">
- <img align="right" src="[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jsh99875)](https://solved.ac/jsh99875)">
+ <img align="left" src=![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihyuny&theme=gruvbox_light&show_icons=true)>
+ <img align="right" src=[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jsh99875)](https://solved.ac/jsh99875)>
 
  
 </div>
