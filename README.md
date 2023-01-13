@@ -8,7 +8,8 @@
 </br>
   
   🔥
- <img align="right" src=http://mazassumnida.wtf/api/generate_badge?boj=jsh99875>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
   
  🔥
  
