@@ -8,7 +8,7 @@
 </br>
   
   
- <img align="right" src=(http://mazassumnida.wtf/api/generate_badge?boj=jsh99875)>
+ <img align="right" src=http://mazassumnida.wtf/api/generate_badge?boj=jsh99875>
   
  🔥
  
